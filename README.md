@@ -146,3 +146,27 @@ Traffic-Accident-Data-Analysis-System/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## Project Presentations
+
+The project was presented through the following review stages:
+
+- [Review 1 Presentation](docs/Traffic_Accident_Review_1.pptx)
+- [Review 2 Presentation](docs/Traffic_Accident_Review_2.pptx)
+- [Review 3 Presentation](docs/Traffic_Accident_Review_3.pptx)
+
+## Dataset Files
+
+- [Raw Dataset](data/traffic_accidents_raw.csv)
+- [Cleaned Dataset](data/traffic_accidents_cleaned.csv)
+
+## Project Outputs
+
+The `images/` folder contains screenshots of the data cleaning process, statistical analysis, and visualizations generated during the project.
+
+## Author
+
+**M. Muni Kiran**
+
+B.Tech – Artificial Intelligence and Machine Learning  
+Aditya University
