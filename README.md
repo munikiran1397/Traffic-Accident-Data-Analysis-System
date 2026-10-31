@@ -123,15 +123,26 @@ Matplotlib was used to generate visualizations:
 Traffic-Accident-Data-Analysis-System/
 │
 ├── data/
-│   └── traffic_accidents_raw.csv
+│   ├── traffic_accidents_raw.csv
+│   └── traffic_accidents_cleaned.csv
 │
 ├── docs/
 │   ├── Traffic_Accident_Review_1.pptx
 │   └── Traffic_Accident_Review_2.pptx
+│   └── Traffic_Accident_Review_3.pptx
 │
 ├── notebooks/
 │   └── Traffic_Accident_Data_Analysis.ipynb
 │
+├── images/
+│   ├── data_cleaning.png
+│   ├── numpy_pandas_analysis.png
+│   ├── location_analysis.png
+│   ├── monthly_trend.png
+│   └── severity_distribution.png
+│
 ├── src/
 │
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
