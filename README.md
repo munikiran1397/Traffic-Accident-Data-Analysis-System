@@ -146,6 +146,7 @@ Traffic-Accident-Data-Analysis-System/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Project Presentations
 
