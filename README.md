@@ -75,6 +75,48 @@ Accident Severity was converted into numerical labels.
 ### One-Hot Encoding
 Vehicle Type was converted into separate binary columns.
 
+## Data Analysis
+
+The cleaned dataset was analyzed using NumPy and Pandas to understand traffic accident patterns.
+
+- Calculated mean, median, minimum, maximum and standard deviation of casualties and fatalities.
+- Analyzed accident severity distribution.
+- Examined accident counts across different weather conditions and road types.
+- Identified locations with the highest number of accidents.
+- Analyzed monthly accident trends.
+
+## Data Visualization
+
+Matplotlib was used to generate visualizations:
+
+- Accidents by Location (Top 10)
+- Monthly Accident Trend
+- Accident Severity Distribution
+
+## Key Findings
+
+- Identified accident hotspots based on location-wise accident counts.
+- Analyzed the month with the highest recorded accident count.
+- Examined the distribution of accident severity.
+- Calculated statistical measures for casualties and fatalities.
+
+## Results
+
+- 3,000 cleaned records were used for analysis.
+- 110 unique accident locations were identified.
+- The analysis provided insights into accident patterns across locations, months, weather conditions and road types.
+
+## How to Run the Project
+
+1. Clone or download this repository.
+2. Install the required Python libraries using:
+
+   `pip install -r requirements.txt`
+
+3. Open the notebook inside the `notebooks/` folder using Google Colab or Jupyter Notebook.
+4. Upload the raw dataset when prompted.
+5. Run the notebook cells sequentially to perform data cleaning, preprocessing, analysis and visualization.
+
 ## Repository Structure
 
 ```text
