@@ -165,7 +165,7 @@ The project was presented through the following review stages:
 
 The `images/` folder contains screenshots of the data cleaning process, statistical analysis, and visualizations generated during the project.
 
-## Author
+## Authors
 
 **M. Muni Kiran**
 
