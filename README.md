@@ -168,6 +168,9 @@ The `images/` folder contains screenshots of the data cleaning process, statisti
 ## Author
 
 **M. Muni Kiran**
+**V. Ganesh**
+**S.Kiran Prabhu**
+**T.Sai Manish**
 
 B.Tech – Artificial Intelligence and Machine Learning  
 Aditya University
